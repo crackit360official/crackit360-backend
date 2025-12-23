@@ -1,0 +1,612 @@
+2025-12-01 10:57:28,563 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/google-login | 200 | 0.00ms
+2025-12-01 10:57:29,332 - INFO - \u27a1 REQUEST | POST /api/auth/google-login | 500 | 758.24ms
+2025-12-01 10:59:15,823 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/login | 200 | 0.00ms
+2025-12-01 10:59:16,502 - INFO - \u27a1 REQUEST | POST /api/auth/login | 500 | 665.58ms
+2025-12-01 11:09:37,415 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/login | 200 | 1.73ms
+2025-12-01 11:09:37,434 - INFO - \u27a1 REQUEST | POST /api/auth/login | 422 | 10.10ms
+2025-12-01 11:09:38,374 - INFO - \u27a1 REQUEST | POST /api/auth/login | 422 | 0.00ms
+2025-12-01 11:09:46,309 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/google-login | 200 | 0.00ms
+2025-12-01 11:09:46,326 - INFO - \u27a1 REQUEST | POST /api/auth/google-login | 422 | 4.19ms
+2025-12-01 11:09:53,115 - INFO - \u27a1 REQUEST | POST /api/auth/google-login | 422 | 2.96ms
+2025-12-01 11:10:21,497 - INFO - \u27a1 REQUEST | POST /api/auth/login | 422 | 10.49ms
+2025-12-01 11:10:22,262 - INFO - \u27a1 REQUEST | POST /api/auth/login | 422 | 5.64ms
+2025-12-01 11:10:22,475 - INFO - \u27a1 REQUEST | POST /api/auth/login | 422 | 1.76ms
+2025-12-01 11:12:31,368 - INFO - \u27a1 REQUEST | POST /api/auth/login | 422 | 2.01ms
+2025-12-01 11:12:32,035 - INFO - \u27a1 REQUEST | POST /api/auth/login | 422 | 1.76ms
+2025-12-01 11:12:37,423 - INFO - \u27a1 REQUEST | POST /api/auth/google-login | 422 | 0.00ms
+2025-12-01 11:13:18,731 - INFO - \u27a1 REQUEST | POST /api/auth/login | 422 | 0.00ms
+2025-12-01 11:13:19,660 - INFO - \u27a1 REQUEST | POST /api/auth/login | 422 | 0.00ms
+2025-12-01 11:13:19,927 - INFO - \u27a1 REQUEST | POST /api/auth/login | 422 | 0.00ms
+2025-12-01 11:13:20,117 - INFO - \u27a1 REQUEST | POST /api/auth/login | 422 | 0.00ms
+2025-12-01 11:18:35,771 - INFO - \u27a1 REQUEST | POST /api/auth/login | 422 | 7.07ms
+2025-12-01 11:20:17,003 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/login | 200 | 3.95ms
+2025-12-01 11:20:17,234 - ERROR - \u274c ERROR | POST /api/auth/login | 227.98ms | [TypeError("'coroutine' object is not iterable"), TypeError('vars() argument must have __dict__ attribute')]
+2025-12-01 11:20:41,682 - INFO - \u27a1 REQUEST | POST /api/auth/login | 500 | 823.88ms
+2025-12-01 11:21:15,058 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/google-login | 200 | 0.00ms
+2025-12-01 11:21:15,385 - INFO - \u27a1 REQUEST | POST /api/auth/google-login | 500 | 319.14ms
+2025-12-11 20:17:23,163 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/login | 200 | 7.67ms
+2025-12-11 20:17:23,993 - ERROR - \u274c ERROR | POST /api/auth/login | 809.43ms | Expected a string value
+2025-12-11 20:21:39,830 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 749.61ms
+2025-12-11 20:21:51,311 - ERROR - \u274c ERROR | GET /api/quiz/questions/6912174ed429c0b160019baa | 2.02ms | cannot access local variable 'user_type' where it is not associated with a value
+2025-12-11 20:21:51,412 - INFO - \u27a1 REQUEST | GET /api/quiz/results/6912174ed429c0b160019baa | 200 | 107.31ms
+2025-12-11 20:27:35,116 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/google-login | 200 | 0.00ms
+2025-12-11 20:27:35,578 - INFO - \u27a1 REQUEST | POST /api/auth/google-login | 200 | 454.78ms
+2025-12-11 20:27:38,901 - INFO - \u27a1 REQUEST | GET /api/quiz/results/692d2741bac7b376cad506e2 | 200 | 352.85ms
+2025-12-11 20:27:39,827 - INFO - \u27a1 REQUEST | GET /api/quiz/questions/692d2741bac7b376cad506e2 | 200 | 1278.46ms
+2025-12-11 20:27:57,094 - INFO - \u27a1 REQUEST | OPTIONS /api/quiz/submit_quiz | 200 | 0.00ms
+2025-12-11 20:27:57,205 - INFO - \u27a1 REQUEST | POST /api/quiz/submit_quiz | 200 | 109.43ms
+2025-12-11 20:28:06,437 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 1159.46ms
+2025-12-11 20:28:35,819 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 58.25ms
+2025-12-11 20:35:48,873 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 126.25ms
+2025-12-11 21:10:27,371 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/login | 200 | 2.05ms
+2025-12-11 21:10:27,983 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 603.65ms
+2025-12-12 09:18:58,155 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/login | 200 | 10.43ms
+2025-12-12 09:18:58,772 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 607.21ms
+2025-12-12 09:19:02,600 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 1008.95ms
+2025-12-12 09:19:28,333 - INFO - \u27a1 REQUEST | OPTIONS /run/ | 200 | 0.00ms
+2025-12-12 09:19:28,333 - INFO - \u27a1 REQUEST | POST /run/ | 404 | 0.00ms
+2025-12-12 09:19:45,383 - INFO - \u27a1 REQUEST | POST /run/ | 404 | 0.00ms
+2025-12-12 09:19:46,272 - INFO - \u27a1 REQUEST | POST /run/ | 404 | 0.00ms
+2025-12-12 09:19:46,715 - INFO - \u27a1 REQUEST | POST /run/ | 404 | 15.41ms
+2025-12-12 09:19:46,931 - INFO - \u27a1 REQUEST | POST /run/ | 404 | 2.99ms
+2025-12-12 09:19:47,100 - INFO - \u27a1 REQUEST | POST /run/ | 404 | 1.02ms
+2025-12-12 09:57:24,943 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/login | 200 | 28.52ms
+2025-12-12 09:57:55,570 - ERROR - \u274c ERROR | POST /api/auth/login | 30512.89ms | SSL handshake failed: ac-exn48as-shard-00-01.t0oud4t.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:992) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-exn48as-shard-00-02.t0oud4t.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:992) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-exn48as-shard-00-00.t0oud4t.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:992) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 693b908f76836cc72d780ad9, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-exn48as-shard-00-00.t0oud4t.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-exn48as-shard-00-00.t0oud4t.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:992) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-exn48as-shard-00-01.t0oud4t.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-exn48as-shard-00-01.t0oud4t.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:992) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-exn48as-shard-00-02.t0oud4t.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-exn48as-shard-00-02.t0oud4t.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:992) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-12-12 10:03:30,143 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 1709.86ms
+2025-12-12 15:15:01,600 - INFO - \u27a1 REQUEST | GET /questions | 404 | 5.21ms
+2025-12-12 15:15:28,681 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 1212.22ms
+2025-12-12 15:15:55,320 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/google-login | 200 | 4.86ms
+2025-12-12 15:15:56,203 - INFO - \u27a1 REQUEST | POST /api/auth/google-login | 200 | 870.36ms
+2025-12-12 15:15:58,480 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 130.78ms
+2025-12-12 15:16:09,850 - INFO - \u27a1 REQUEST | OPTIONS /run/ | 200 | 0.00ms
+2025-12-12 15:16:09,855 - INFO - \u27a1 REQUEST | POST /run/ | 404 | 2.01ms
+2025-12-12 15:16:11,633 - INFO - \u27a1 REQUEST | OPTIONS /submit/PROB001 | 200 | 0.00ms
+2025-12-12 15:16:11,637 - INFO - \u27a1 REQUEST | POST /submit/PROB001 | 404 | 1.03ms
+2025-12-12 15:16:23,462 - INFO - \u27a1 REQUEST | POST /run/ | 404 | 0.00ms
+2025-12-12 15:16:33,918 - INFO - \u27a1 REQUEST | POST /run/ | 404 | 0.00ms
+2025-12-12 15:17:43,135 - INFO - \u27a1 REQUEST | GET /docs | 200 | 15.01ms
+2025-12-12 15:17:43,654 - INFO - \u27a1 REQUEST | GET /openapi.json | 200 | 214.12ms
+2025-12-12 15:21:07,081 - INFO - \u27a1 REQUEST | GET /docs | 200 | 17.83ms
+2025-12-12 15:21:07,230 - INFO - \u27a1 REQUEST | GET /openapi.json | 200 | 8.00ms
+2025-12-12 15:51:13,161 - INFO - \u27a1 REQUEST | POST /run/ | 404 | 13.61ms
+2025-12-12 15:51:48,719 - INFO - \u27a1 REQUEST | POST /run/ | 404 | 0.00ms
+2025-12-12 15:52:01,309 - INFO - \u27a1 REQUEST | POST /run/ | 404 | 0.65ms
+2025-12-12 15:58:20,892 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/login | 200 | 7.83ms
+2025-12-12 15:58:21,944 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 1021.83ms
+2025-12-12 15:58:35,788 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/google-login | 200 | 0.00ms
+2025-12-12 15:58:36,859 - INFO - \u27a1 REQUEST | POST /api/auth/google-login | 200 | 1057.50ms
+2025-12-12 15:58:56,393 - INFO - \u27a1 REQUEST | POST /api/auth/google-login | 200 | 389.38ms
+2025-12-12 20:53:02,046 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/login | 200 | 0.00ms
+2025-12-12 20:53:03,070 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 1016.58ms
+2025-12-12 20:53:06,877 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 1918.30ms
+2025-12-12 20:53:21,861 - INFO - \u27a1 REQUEST | OPTIONS /run/ | 200 | 0.00ms
+2025-12-12 20:53:21,866 - INFO - \u27a1 REQUEST | POST /run/ | 404 | 0.00ms
+2025-12-12 20:53:37,684 - INFO - \u27a1 REQUEST | POST /run/ | 404 | 0.00ms
+2025-12-12 20:54:40,542 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 57.25ms
+2025-12-12 20:54:42,200 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 50.15ms
+2025-12-12 20:54:43,190 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 36.74ms
+2025-12-12 20:55:10,487 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 44.76ms
+2025-12-13 10:02:50,866 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/login | 200 | 0.00ms
+2025-12-13 10:02:51,830 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 952.14ms
+2025-12-13 10:02:58,872 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 3699.62ms
+2025-12-13 10:03:03,943 - INFO - \u27a1 REQUEST | OPTIONS /run/ | 200 | 0.00ms
+2025-12-13 10:03:03,952 - INFO - \u27a1 REQUEST | POST /run/ | 404 | 5.11ms
+2025-12-13 10:04:48,232 - INFO - \u27a1 REQUEST | OPTIONS /submit/PROB001 | 200 | 19.97ms
+2025-12-13 10:04:48,261 - INFO - \u27a1 REQUEST | POST /submit/PROB001 | 404 | 10.63ms
+2025-12-13 10:04:57,621 - INFO - \u27a1 REQUEST | POST /submit/PROB001 | 404 | 4.27ms
+2025-12-13 10:10:11,506 - INFO - \u27a1 REQUEST | POST /run/ | 404 | 41.97ms
+2025-12-13 10:10:12,645 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 1078.13ms
+2025-12-13 10:10:41,386 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 667.53ms
+2025-12-13 10:10:45,725 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 1407.81ms
+2025-12-13 10:45:09,192 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/login | 200 | 29.40ms
+2025-12-13 10:45:10,164 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 927.93ms
+2025-12-13 10:45:56,621 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 73.96ms
+2025-12-13 10:46:29,931 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/google-login | 200 | 8.24ms
+2025-12-13 10:46:30,705 - INFO - \u27a1 REQUEST | POST /api/auth/google-login | 200 | 757.39ms
+2025-12-13 10:54:10,701 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 1091.41ms
+2025-12-13 11:05:38,597 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/login | 200 | 21.38ms
+2025-12-13 11:05:40,133 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 1489.33ms
+2025-12-13 11:22:09,941 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 792.45ms
+2025-12-13 11:30:46,685 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/login | 200 | 8.48ms
+2025-12-13 11:30:47,506 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 789.24ms
+2025-12-13 14:53:28,219 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/login | 200 | 0.00ms
+2025-12-13 14:53:29,387 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 1152.43ms
+2025-12-13 14:53:33,042 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 1298.40ms
+2025-12-13 14:54:40,194 - INFO - \u27a1 REQUEST | OPTIONS /api/run/ | 200 | 0.00ms
+2025-12-13 14:54:40,196 - INFO - \u27a1 REQUEST | POST /api/run/ | 404 | 0.00ms
+2025-12-13 14:55:37,589 - INFO - \u27a1 REQUEST | POST /api/run/ | 404 | 0.00ms
+2025-12-13 14:56:14,469 - INFO - \u27a1 REQUEST | POST /api/run/ | 404 | 0.64ms
+2025-12-13 14:56:16,292 - INFO - \u27a1 REQUEST | OPTIONS /api/submit/PROB001 | 200 | 0.00ms
+2025-12-13 14:56:16,297 - INFO - \u27a1 REQUEST | POST /api/submit/PROB001 | 404 | 0.00ms
+2025-12-13 14:57:45,887 - INFO - \u27a1 REQUEST | GET /docs | 200 | 7.62ms
+2025-12-13 14:57:47,373 - INFO - \u27a1 REQUEST | GET /openapi.json | 200 | 240.29ms
+2025-12-13 14:58:30,678 - INFO - \u27a1 REQUEST | GET /docs | 200 | 3.84ms
+2025-12-13 14:58:30,919 - INFO - \u27a1 REQUEST | GET /openapi.json | 200 | 10.49ms
+2025-12-13 21:28:03,560 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/login | 200 | 37.14ms
+2025-12-13 21:28:05,335 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 1702.82ms
+2025-12-13 21:28:14,786 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 4074.96ms
+2025-12-16 09:22:53,434 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/login | 200 | 0.55ms
+2025-12-16 09:22:54,281 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 828.59ms
+2025-12-16 09:22:58,248 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 2148.51ms
+2025-12-16 09:38:40,711 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/login | 200 | 1.05ms
+2025-12-16 09:38:41,638 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 900.20ms
+2025-12-16 09:38:45,916 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 2209.87ms
+2025-12-16 09:50:08,254 - INFO - \u27a1 REQUEST | GET / | 200 | 46.95ms
+2025-12-16 09:50:08,957 - INFO - \u27a1 REQUEST | GET /favicon.ico | 404 | 8.91ms
+2025-12-16 10:05:23,545 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/login | 200 | 0.00ms
+2025-12-16 10:05:24,329 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 773.39ms
+2025-12-16 10:05:28,369 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 1918.02ms
+2025-12-16 10:05:49,109 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 44.51ms
+2025-12-16 10:05:49,828 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 50.56ms
+2025-12-16 10:09:09,337 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 144.00ms
+2025-12-16 10:09:12,125 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 49.63ms
+2025-12-16 10:09:15,842 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 57.91ms
+2025-12-16 10:10:52,485 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 388.90ms
+2025-12-16 10:12:33,170 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 78.40ms
+2025-12-16 10:12:43,162 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 48.75ms
+2025-12-16 10:12:49,776 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 52.26ms
+2025-12-16 10:12:53,718 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 56.63ms
+2025-12-16 10:13:13,122 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 53.71ms
+2025-12-16 10:13:13,817 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 54.35ms
+2025-12-16 11:05:07,139 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/login | 200 | 0.00ms
+2025-12-16 11:05:07,972 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 829.35ms
+2025-12-16 11:06:10,719 - INFO - \u27a1 REQUEST | GET /api/speed-test/time-limit | 404 | 0.00ms
+2025-12-16 11:06:25,944 - INFO - \u27a1 REQUEST | GET /api/speed-test/time-limit | 404 | 3.00ms
+2025-12-16 11:06:43,452 - INFO - \u27a1 REQUEST | GET /api/speed-test/time-limit | 404 | 0.00ms
+2025-12-16 11:55:06,626 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/login | 200 | 39.66ms
+2025-12-16 11:55:08,171 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 1502.42ms
+2025-12-16 12:00:00,803 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/login | 200 | 9.31ms
+2025-12-16 12:00:01,662 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 851.08ms
+2025-12-16 12:00:18,189 - INFO - \u27a1 REQUEST | GET /api/speed-test/time-limit | 404 | 0.00ms
+2025-12-16 12:00:38,312 - INFO - \u27a1 REQUEST | GET /api/speed-test/time-limit | 404 | 3.62ms
+2025-12-16 12:00:52,348 - INFO - \u27a1 REQUEST | GET /api/speed-test/time-limit | 404 | 1.83ms
+2025-12-16 12:01:10,365 - INFO - \u27a1 REQUEST | GET /api/speed-test/time-limit | 404 | 4.71ms
+2025-12-16 12:01:31,489 - INFO - \u27a1 REQUEST | GET /api/speed-test/time-limit | 404 | 0.00ms
+2025-12-16 12:01:41,362 - INFO - \u27a1 REQUEST | GET /api/speed-test/time-limit | 404 | 0.00ms
+2025-12-16 12:01:53,179 - INFO - \u27a1 REQUEST | GET /api/speed-test/time-limit | 404 | 2.53ms
+2025-12-16 12:02:20,867 - INFO - \u27a1 REQUEST | GET /api/speed-test/time-limit | 404 | 0.00ms
+2025-12-16 12:04:45,866 - INFO - \u27a1 REQUEST | GET /api/speed-test/time-limit | 404 | 4.36ms
+2025-12-17 13:34:22,611 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/login | 200 | 14.48ms
+2025-12-17 13:34:23,729 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 1096.54ms
+2025-12-17 14:27:51,877 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 3190.46ms
+2025-12-17 20:47:50,815 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/login | 200 | 26.49ms
+2025-12-17 20:47:52,133 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 1284.87ms
+2025-12-17 20:54:07,455 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 4137.62ms
+2025-12-17 21:00:43,948 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 171.27ms
+2025-12-17 22:08:17,631 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/login | 200 | 0.00ms
+2025-12-17 22:08:18,318 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 678.90ms
+2025-12-17 22:08:59,752 - INFO - \u27a1 REQUEST | GET /api/discussions | 307 | 0.00ms
+2025-12-17 22:08:59,761 - ERROR - \u274c ERROR | GET /api/discussions/ | 0.00ms | 'AsyncIOMotorCursor' object is not iterable
+2025-12-17 22:36:59,738 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/login | 200 | 8.61ms
+2025-12-17 22:37:01,225 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 1462.83ms
+2025-12-17 22:37:04,766 - INFO - \u27a1 REQUEST | GET /api/discussions | 307 | 9.18ms
+2025-12-17 22:37:04,818 - ERROR - \u274c ERROR | GET /api/discussions/ | 41.12ms | [TypeError("'coroutine' object is not iterable"), TypeError('vars() argument must have __dict__ attribute')]
+2025-12-17 22:41:14,960 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 679.96ms
+2025-12-17 22:41:18,147 - ERROR - \u274c ERROR | GET /api/discussions/ | 4.13ms | [TypeError("'coroutine' object is not iterable"), TypeError('vars() argument must have __dict__ attribute')]
+2025-12-17 22:42:45,782 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 563.48ms
+2025-12-17 22:44:36,105 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 541.40ms
+2025-12-17 22:44:38,307 - INFO - \u27a1 REQUEST | GET /api/quiz/results/6912174ed429c0b160019baa | 200 | 51.61ms
+2025-12-17 22:44:39,935 - INFO - \u27a1 REQUEST | GET /api/quiz/questions/6912174ed429c0b160019baa | 200 | 1679.82ms
+2025-12-17 22:44:52,052 - INFO - \u27a1 REQUEST | OPTIONS /api/quiz/submit_quiz | 200 | 0.00ms
+2025-12-17 22:44:52,449 - INFO - \u27a1 REQUEST | POST /api/quiz/submit_quiz | 200 | 390.58ms
+2025-12-17 22:47:49,569 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/login | 200 | 0.00ms
+2025-12-17 22:47:50,184 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 608.85ms
+2025-12-17 22:49:27,633 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 511.01ms
+2025-12-17 22:51:04,423 - ERROR - \u274c ERROR | GET /api/discussions/ | 41.91ms | [TypeError("'coroutine' object is not iterable"), TypeError('vars() argument must have __dict__ attribute')]
+2025-12-17 22:54:57,110 - ERROR - \u274c ERROR | GET /api/discussions/ | 23.05ms | [TypeError("'coroutine' object is not iterable"), TypeError('vars() argument must have __dict__ attribute')]
+2025-12-17 22:56:06,099 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 1007.36ms
+2025-12-17 22:56:14,505 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 42.53ms
+2025-12-17 22:58:10,047 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/login | 200 | 13.34ms
+2025-12-17 22:58:10,795 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 724.05ms
+2025-12-17 22:58:15,218 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 65.69ms
+2025-12-17 23:01:37,511 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 542.67ms
+2025-12-17 23:01:41,938 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 57.45ms
+2025-12-18 09:13:26,416 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/login | 200 | 2.97ms
+2025-12-18 09:13:27,392 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 964.95ms
+2025-12-18 09:13:30,907 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 142.74ms
+2025-12-18 09:22:00,645 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 990.07ms
+2025-12-18 09:22:06,205 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 134.36ms
+2025-12-18 09:35:27,237 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 8288.75ms
+2025-12-18 09:37:38,492 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 284.76ms
+2025-12-18 10:03:51,173 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 527.98ms
+2025-12-18 10:04:42,670 - INFO - \u27a1 REQUEST | OPTIONS /api/discussions/6942debe4a3044a404e11c66/vote | 200 | 0.61ms
+2025-12-18 10:04:42,746 - INFO - \u27a1 REQUEST | POST /api/discussions/6942debe4a3044a404e11c66/vote | 401 | 64.33ms
+2025-12-18 10:04:43,363 - INFO - \u27a1 REQUEST | POST /api/discussions/6942debe4a3044a404e11c66/vote | 401 | 2.87ms
+2025-12-18 10:04:43,706 - INFO - \u27a1 REQUEST | POST /api/discussions/6942debe4a3044a404e11c66/vote | 401 | 1.65ms
+2025-12-18 10:04:43,893 - INFO - \u27a1 REQUEST | POST /api/discussions/6942debe4a3044a404e11c66/vote | 401 | 0.00ms
+2025-12-18 10:04:44,056 - INFO - \u27a1 REQUEST | POST /api/discussions/6942debe4a3044a404e11c66/vote | 401 | 0.00ms
+2025-12-18 10:04:44,350 - INFO - \u27a1 REQUEST | POST /api/discussions/6942debe4a3044a404e11c66/vote | 401 | 6.12ms
+2025-12-18 10:04:44,519 - INFO - \u27a1 REQUEST | POST /api/discussions/6942debe4a3044a404e11c66/vote | 401 | 9.44ms
+2025-12-18 10:04:44,906 - INFO - \u27a1 REQUEST | POST /api/discussions/6942debe4a3044a404e11c66/vote | 401 | 2.91ms
+2025-12-18 10:04:45,055 - INFO - \u27a1 REQUEST | POST /api/discussions/6942debe4a3044a404e11c66/vote | 401 | 0.00ms
+2025-12-18 10:10:03,493 - INFO - \u27a1 REQUEST | POST /api/discussions/6942debe4a3044a404e11c66/vote | 401 | 37.21ms
+2025-12-18 11:33:03,543 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 1710.92ms
+2025-12-18 11:33:08,846 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 2706.68ms
+2025-12-18 11:33:09,221 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 116.04ms
+2025-12-18 11:33:11,093 - INFO - \u27a1 REQUEST | OPTIONS /api/discussions/6942debe4a3044a404e11c66/vote | 200 | 3.36ms
+2025-12-18 11:33:11,121 - INFO - \u27a1 REQUEST | POST /api/discussions/6942debe4a3044a404e11c66/vote | 401 | 24.91ms
+2025-12-18 11:33:11,988 - INFO - \u27a1 REQUEST | POST /api/discussions/6942debe4a3044a404e11c66/vote | 401 | 0.00ms
+2025-12-18 11:36:27,734 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/login | 200 | 14.29ms
+2025-12-18 11:36:29,348 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 1574.39ms
+2025-12-18 11:42:49,163 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 696.65ms
+2025-12-18 11:42:51,104 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 67.08ms
+2025-12-18 11:46:58,045 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/login | 200 | 9.08ms
+2025-12-18 11:46:58,808 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 742.23ms
+2025-12-18 11:47:02,259 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 438.35ms
+2025-12-18 11:47:04,633 - INFO - \u27a1 REQUEST | OPTIONS /api/discussions/6942debe4a3044a404e11c66/vote | 200 | 0.00ms
+2025-12-18 11:47:04,665 - INFO - \u27a1 REQUEST | POST /api/discussions/6942debe4a3044a404e11c66/vote | 401 | 29.15ms
+2025-12-18 11:47:05,799 - INFO - \u27a1 REQUEST | POST /api/discussions/6942debe4a3044a404e11c66/vote | 401 | 18.56ms
+2025-12-18 11:47:06,680 - INFO - \u27a1 REQUEST | POST /api/discussions/6942debe4a3044a404e11c66/vote | 401 | 0.00ms
+2025-12-18 11:47:23,353 - INFO - \u27a1 REQUEST | OPTIONS /api/discussions/reply | 200 | 0.00ms
+2025-12-18 11:47:23,374 - INFO - \u27a1 REQUEST | POST /api/discussions/reply | 401 | 9.93ms
+2025-12-18 11:47:24,436 - INFO - \u27a1 REQUEST | POST /api/discussions/reply | 401 | 4.71ms
+2025-12-18 11:47:25,001 - INFO - \u27a1 REQUEST | POST /api/discussions/reply | 401 | 0.00ms
+2025-12-18 11:47:25,174 - INFO - \u27a1 REQUEST | POST /api/discussions/reply | 401 | 0.00ms
+2025-12-18 11:47:25,348 - INFO - \u27a1 REQUEST | POST /api/discussions/reply | 401 | 0.00ms
+2025-12-18 11:47:25,667 - INFO - \u27a1 REQUEST | POST /api/discussions/reply | 401 | 0.00ms
+2025-12-18 11:47:25,858 - INFO - \u27a1 REQUEST | POST /api/discussions/reply | 401 | 3.23ms
+2025-12-18 11:47:27,590 - INFO - \u27a1 REQUEST | POST /api/discussions/reply | 401 | 1.43ms
+2025-12-18 11:47:27,746 - INFO - \u27a1 REQUEST | POST /api/discussions/reply | 401 | 2.01ms
+2025-12-18 11:55:17,321 - INFO - \u27a1 REQUEST | POST /api/discussions/reply | 401 | 0.00ms
+2025-12-18 11:55:18,363 - INFO - \u27a1 REQUEST | POST /api/discussions/reply | 401 | 3.42ms
+2025-12-18 11:56:12,220 - INFO - \u27a1 REQUEST | POST /api/discussions/6942debe4a3044a404e11c66/vote | 401 | 6.54ms
+2025-12-18 11:56:13,473 - INFO - \u27a1 REQUEST | POST /api/discussions/6942debe4a3044a404e11c66/vote | 401 | 4.23ms
+2025-12-18 12:01:16,596 - INFO - \u27a1 REQUEST | OPTIONS /api/discussions/ | 200 | 2.64ms
+2025-12-18 12:01:16,977 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 372.96ms
+2025-12-18 12:01:29,029 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 50.70ms
+2025-12-18 12:01:31,695 - INFO - \u27a1 REQUEST | OPTIONS /api/discussions/6942debe4a3044a404e11c66/vote | 200 | 0.00ms
+2025-12-18 12:01:31,765 - ERROR - \u274c ERROR | POST /api/discussions/6942debe4a3044a404e11c66/vote | 70.45ms | '_asyncio.Future' object is not subscriptable
+2025-12-18 12:01:32,406 - ERROR - \u274c ERROR | POST /api/discussions/6942debe4a3044a404e11c66/vote | 6.77ms | '_asyncio.Future' object is not subscriptable
+2025-12-18 13:25:14,369 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/login | 200 | 15.76ms
+2025-12-18 13:25:15,599 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 1201.37ms
+2025-12-18 13:25:19,245 - INFO - \u27a1 REQUEST | OPTIONS /api/discussions/ | 200 | 0.00ms
+2025-12-18 13:25:19,363 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 113.03ms
+2025-12-18 13:25:29,066 - INFO - \u27a1 REQUEST | OPTIONS /api/discussions/reply | 200 | 0.00ms
+2025-12-18 13:25:29,096 - INFO - \u27a1 REQUEST | POST /api/discussions/reply | 200 | 30.50ms
+2025-12-18 13:25:30,442 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 1319.20ms
+2025-12-18 13:25:32,205 - INFO - \u27a1 REQUEST | OPTIONS /api/discussions/6942debe4a3044a404e11c66/vote | 200 | 0.00ms
+2025-12-18 13:25:32,213 - ERROR - \u274c ERROR | POST /api/discussions/6942debe4a3044a404e11c66/vote | 0.00ms | '_asyncio.Future' object is not subscriptable
+2025-12-18 21:24:51,590 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/login | 200 | 0.00ms
+2025-12-18 21:24:52,330 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 726.56ms
+2025-12-18 21:24:55,388 - INFO - \u27a1 REQUEST | OPTIONS /api/discussions/ | 200 | 0.00ms
+2025-12-18 21:24:55,459 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 62.89ms
+2025-12-18 21:25:02,688 - INFO - \u27a1 REQUEST | OPTIONS /api/discussions/reply | 200 | 3.75ms
+2025-12-18 21:25:02,703 - INFO - \u27a1 REQUEST | POST /api/discussions/reply | 200 | 14.29ms
+2025-12-18 21:25:03,222 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 517.58ms
+2025-12-18 21:27:12,465 - INFO - \u27a1 REQUEST | OPTIONS /api/discussions/6942debe4a3044a404e11c66/vote | 200 | 0.00ms
+2025-12-18 21:27:12,472 - ERROR - \u274c ERROR | POST /api/discussions/6942debe4a3044a404e11c66/vote | 7.22ms | '_asyncio.Future' object is not subscriptable
+2025-12-18 21:27:13,331 - ERROR - \u274c ERROR | POST /api/discussions/6942debe4a3044a404e11c66/vote | 9.37ms | '_asyncio.Future' object is not subscriptable
+2025-12-18 21:27:14,131 - ERROR - \u274c ERROR | POST /api/discussions/6942debe4a3044a404e11c66/vote | 6.78ms | '_asyncio.Future' object is not subscriptable
+2025-12-18 21:36:53,628 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/login | 200 | 0.00ms
+2025-12-18 21:36:54,377 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 741.03ms
+2025-12-18 21:36:57,777 - INFO - \u27a1 REQUEST | OPTIONS /api/discussions/ | 200 | 0.00ms
+2025-12-18 21:36:57,837 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 52.56ms
+2025-12-18 21:36:59,852 - INFO - \u27a1 REQUEST | POST /api/discussions/6942debe4a3044a404e11c66/vote | 200 | 165.06ms
+2025-12-18 21:36:59,911 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 51.07ms
+2025-12-18 21:37:00,916 - INFO - \u27a1 REQUEST | POST /api/discussions/6942debe4a3044a404e11c66/vote | 200 | 162.97ms
+2025-12-18 21:37:00,972 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 50.09ms
+2025-12-18 21:37:02,086 - INFO - \u27a1 REQUEST | POST /api/discussions/6942debe4a3044a404e11c66/vote | 200 | 178.87ms
+2025-12-18 21:37:02,138 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 52.02ms
+2025-12-18 21:37:03,736 - INFO - \u27a1 REQUEST | POST /api/discussions/6942debe4a3044a404e11c66/vote | 200 | 429.83ms
+2025-12-18 21:37:03,787 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 44.10ms
+2025-12-18 21:37:07,067 - INFO - \u27a1 REQUEST | POST /api/discussions/6942debe4a3044a404e11c66/vote | 200 | 213.64ms
+2025-12-18 21:37:07,222 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 148.99ms
+2025-12-18 21:39:36,966 - INFO - \u27a1 REQUEST | OPTIONS /api/discussions/ | 200 | 24.56ms
+2025-12-18 21:39:37,187 - INFO - \u27a1 REQUEST | POST /api/discussions/ | 200 | 164.78ms
+2025-12-18 21:40:07,499 - ERROR - \u274c ERROR | GET /api/discussions/ | 30305.20ms | SSL handshake failed: ac-exn48as-shard-00-00.t0oud4t.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:992) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-exn48as-shard-00-01.t0oud4t.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:992) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-exn48as-shard-00-02.t0oud4t.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:992) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 69442691ff78c4b270603503, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-exn48as-shard-00-00.t0oud4t.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-exn48as-shard-00-00.t0oud4t.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:992) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-exn48as-shard-00-01.t0oud4t.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-exn48as-shard-00-01.t0oud4t.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:992) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-exn48as-shard-00-02.t0oud4t.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-exn48as-shard-00-02.t0oud4t.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:992) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-12-18 21:40:07,522 - ERROR - Future exception was never retrieved
+future: <Future finished exception=ServerSelectionTimeoutError("SSL handshake failed: ac-exn48as-shard-00-00.t0oud4t.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:992) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-exn48as-shard-00-01.t0oud4t.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:992) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-exn48as-shard-00-02.t0oud4t.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:992) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 69442691ff78c4b270603503, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-exn48as-shard-00-00.t0oud4t.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-exn48as-shard-00-00.t0oud4t.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:992) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-exn48as-shard-00-01.t0oud4t.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-exn48as-shard-00-01.t0oud4t.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:992) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-exn48as-shard-00-02.t0oud4t.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-exn48as-shard-00-02.t0oud4t.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:992) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>")>
+Traceback (most recent call last):
+  File "C:\Users\elang\AppData\Local\Programs\Python\Python311\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\crackit360\backend\venv\Lib\site-packages\pymongo\synchronous\collection.py", line 891, in insert_one
+    self._insert_one(
+  File "C:\crackit360\backend\venv\Lib\site-packages\pymongo\synchronous\collection.py", line 831, in _insert_one
+    self._database.client._retryable_write(
+  File "C:\crackit360\backend\venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 2082, in _retryable_write
+    return self._retry_with_session(retryable, func, s, bulk, operation, operation_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\crackit360\backend\venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1968, in _retry_with_session
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\crackit360\backend\venv\Lib\site-packages\pymongo\_csot.py", line 125, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\crackit360\backend\venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 2014, in _retry_internal
+    ).run()
+      ^^^^^
+  File "C:\crackit360\backend\venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 2765, in run
+    return self._read() if self._is_read else self._write()
+                                              ^^^^^^^^^^^^^
+  File "C:\crackit360\backend\venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 2875, in _write
+    self._server = self._get_server()
+                   ^^^^^^^^^^^^^^^^^^
+  File "C:\crackit360\backend\venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 2858, in _get_server
+    return self._client._select_server(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\crackit360\backend\venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1833, in _select_server
+    server = topology.select_server(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\crackit360\backend\venv\Lib\site-packages\pymongo\synchronous\topology.py", line 409, in select_server
+    server = self._select_server(
+             ^^^^^^^^^^^^^^^^^^^^
+  File "C:\crackit360\backend\venv\Lib\site-packages\pymongo\synchronous\topology.py", line 387, in _select_server
+    servers = self.select_servers(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\crackit360\backend\venv\Lib\site-packages\pymongo\synchronous\topology.py", line 294, in select_servers
+    server_descriptions = self._select_servers_loop(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\crackit360\backend\venv\Lib\site-packages\pymongo\synchronous\topology.py", line 344, in _select_servers_loop
+    raise ServerSelectionTimeoutError(
+pymongo.errors.ServerSelectionTimeoutError: SSL handshake failed: ac-exn48as-shard-00-00.t0oud4t.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:992) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-exn48as-shard-00-01.t0oud4t.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:992) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-exn48as-shard-00-02.t0oud4t.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:992) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 69442691ff78c4b270603503, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-exn48as-shard-00-00.t0oud4t.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-exn48as-shard-00-00.t0oud4t.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:992) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-exn48as-shard-00-01.t0oud4t.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-exn48as-shard-00-01.t0oud4t.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:992) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-exn48as-shard-00-02.t0oud4t.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-exn48as-shard-00-02.t0oud4t.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:992) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-12-18 21:49:38,069 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/login | 200 | 0.00ms
+2025-12-18 21:49:38,666 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 594.01ms
+2025-12-18 21:49:42,462 - INFO - \u27a1 REQUEST | OPTIONS /api/discussions/ | 200 | 0.00ms
+2025-12-18 21:49:42,839 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 367.95ms
+2025-12-18 21:49:45,145 - INFO - \u27a1 REQUEST | OPTIONS /api/discussions/6942debe4a3044a404e11c66/vote | 200 | 0.00ms
+2025-12-18 21:49:45,327 - INFO - \u27a1 REQUEST | POST /api/discussions/6942debe4a3044a404e11c66/vote | 200 | 181.61ms
+2025-12-18 21:49:45,378 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 42.31ms
+2025-12-18 21:49:47,175 - INFO - \u27a1 REQUEST | POST /api/discussions/6942debe4a3044a404e11c66/vote | 200 | 438.87ms
+2025-12-18 21:49:47,268 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 77.48ms
+2025-12-18 21:50:11,285 - INFO - \u27a1 REQUEST | OPTIONS /api/discussions/ | 200 | 0.00ms
+2025-12-18 21:50:11,396 - INFO - \u27a1 REQUEST | POST /api/discussions/ | 200 | 108.10ms
+2025-12-18 21:50:11,482 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 77.80ms
+2025-12-18 21:51:39,359 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 639.39ms
+2025-12-18 21:51:41,929 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 101.36ms
+2025-12-18 21:53:42,996 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 239.05ms
+2025-12-18 21:55:06,792 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 635.35ms
+2025-12-18 21:55:09,605 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 89.89ms
+2025-12-18 21:56:27,922 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 60.99ms
+2025-12-18 21:56:40,053 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 119.19ms
+2025-12-18 21:57:26,494 - INFO - \u27a1 REQUEST | OPTIONS /api/discussions/694429bb644b20a06e771646/vote | 200 | 0.00ms
+2025-12-18 21:57:26,722 - INFO - \u27a1 REQUEST | POST /api/discussions/694429bb644b20a06e771646/vote | 200 | 228.41ms
+2025-12-18 21:57:26,779 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 47.74ms
+2025-12-18 22:37:07,176 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/login | 200 | 0.00ms
+2025-12-18 22:37:07,740 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 553.44ms
+2025-12-18 22:37:28,892 - INFO - \u27a1 REQUEST | OPTIONS /api/discussions/ | 200 | 0.00ms
+2025-12-18 22:37:28,952 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 59.80ms
+2025-12-19 13:48:24,737 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/login | 200 | 1.37ms
+2025-12-19 13:48:25,469 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 724.58ms
+2025-12-19 13:48:28,649 - INFO - \u27a1 REQUEST | OPTIONS /api/discussions/ | 200 | 0.00ms
+2025-12-19 13:48:28,711 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 52.33ms
+2025-12-19 13:52:40,240 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 300.21ms
+2025-12-19 13:52:57,735 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 75.84ms
+2025-12-19 13:53:48,466 - INFO - \u27a1 REQUEST | OPTIONS /api/discussions/694429bb644b20a06e771646/replies | 200 | 11.15ms
+2025-12-19 13:53:48,617 - INFO - \u27a1 REQUEST | GET /api/discussions/694429bb644b20a06e771646/replies | 200 | 126.45ms
+2025-12-19 13:53:59,593 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 660.58ms
+2025-12-19 13:54:05,495 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 176.05ms
+2025-12-19 13:54:35,715 - INFO - \u27a1 REQUEST | OPTIONS /api/discussions/reply | 200 | 8.37ms
+2025-12-19 13:54:35,896 - INFO - \u27a1 REQUEST | POST /api/discussions/reply | 200 | 164.75ms
+2025-12-19 13:54:36,805 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 888.02ms
+2025-12-19 13:54:39,835 - INFO - \u27a1 REQUEST | GET /api/discussions/694429bb644b20a06e771646/replies | 200 | 89.84ms
+2025-12-19 14:05:58,399 - INFO - \u27a1 REQUEST | OPTIONS /api/discussions/ | 200 | 16.51ms
+2025-12-19 14:05:58,653 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 215.73ms
+2025-12-19 14:06:03,417 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 46.69ms
+2025-12-19 14:06:05,229 - INFO - \u27a1 REQUEST | OPTIONS /api/discussions/694429bb644b20a06e771646/vote | 200 | 0.00ms
+2025-12-19 14:06:05,567 - INFO - \u27a1 REQUEST | POST /api/discussions/694429bb644b20a06e771646/vote | 200 | 330.88ms
+2025-12-19 14:06:05,720 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 137.50ms
+2025-12-19 14:06:07,159 - INFO - \u27a1 REQUEST | POST /api/discussions/694429bb644b20a06e771646/vote | 200 | 287.25ms
+2025-12-19 14:06:07,262 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 85.92ms
+2025-12-19 14:06:08,507 - INFO - \u27a1 REQUEST | POST /api/discussions/694429bb644b20a06e771646/vote | 200 | 133.17ms
+2025-12-19 14:06:08,584 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 62.36ms
+2025-12-19 14:06:10,624 - INFO - \u27a1 REQUEST | POST /api/discussions/694429bb644b20a06e771646/vote | 200 | 281.79ms
+2025-12-19 14:06:10,716 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 81.97ms
+2025-12-19 14:06:11,695 - INFO - \u27a1 REQUEST | OPTIONS /api/discussions/6942debe4a3044a404e11c66/vote | 200 | 0.00ms
+2025-12-19 14:06:11,983 - INFO - \u27a1 REQUEST | POST /api/discussions/6942debe4a3044a404e11c66/vote | 200 | 281.07ms
+2025-12-19 14:06:12,069 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 70.00ms
+2025-12-19 14:06:14,527 - INFO - \u27a1 REQUEST | POST /api/discussions/6942debe4a3044a404e11c66/vote | 200 | 375.27ms
+2025-12-19 14:06:14,698 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 153.51ms
+2025-12-19 14:06:17,672 - INFO - \u27a1 REQUEST | OPTIONS /api/discussions/6942debe4a3044a404e11c66/replies | 200 | 0.00ms
+2025-12-19 14:06:17,730 - INFO - \u27a1 REQUEST | GET /api/discussions/6942debe4a3044a404e11c66/replies | 200 | 47.83ms
+2025-12-19 14:06:22,740 - INFO - \u27a1 REQUEST | OPTIONS /api/discussions/694429bb644b20a06e771646/replies | 200 | 0.00ms
+2025-12-19 14:06:22,862 - INFO - \u27a1 REQUEST | GET /api/discussions/694429bb644b20a06e771646/replies | 200 | 112.03ms
+2025-12-19 14:06:46,862 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/google-login | 200 | 0.00ms
+2025-12-19 14:06:48,131 - INFO - \u27a1 REQUEST | POST /api/auth/google-login | 200 | 1259.00ms
+2025-12-19 14:06:58,212 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 47.80ms
+2025-12-19 14:07:00,097 - INFO - \u27a1 REQUEST | GET /api/discussions/694429bb644b20a06e771646/replies | 200 | 65.15ms
+2025-12-19 14:08:12,267 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 87.18ms
+2025-12-19 14:08:36,094 - INFO - \u27a1 REQUEST | GET /api/discussions/694429bb644b20a06e771646/replies | 200 | 41.57ms
+2025-12-19 14:08:39,078 - INFO - \u27a1 REQUEST | GET /api/discussions/6942debe4a3044a404e11c66/replies | 200 | 39.87ms
+2025-12-19 14:09:15,418 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 125.93ms
+2025-12-19 14:11:09,705 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 46.87ms
+2025-12-19 14:11:21,700 - INFO - \u27a1 REQUEST | GET /api/discussions/6942debe4a3044a404e11c66/replies | 200 | 91.39ms
+2025-12-19 14:11:30,105 - INFO - \u27a1 REQUEST | GET /api/quiz/results/693bee54c41a6e18195ce710 | 200 | 162.05ms
+2025-12-19 14:11:30,538 - INFO - \u27a1 REQUEST | GET /api/quiz/questions/693bee54c41a6e18195ce710 | 200 | 593.13ms
+2025-12-19 14:11:34,755 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 70.20ms
+2025-12-19 14:15:35,238 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 900.26ms
+2025-12-19 14:15:41,365 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/login | 200 | 6.57ms
+2025-12-19 14:15:42,241 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 866.27ms
+2025-12-19 14:15:46,095 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 127.94ms
+2025-12-19 14:15:49,117 - INFO - \u27a1 REQUEST | GET /api/discussions/6942debe4a3044a404e11c66/replies | 200 | 51.08ms
+2025-12-19 14:16:09,395 - INFO - \u27a1 REQUEST | OPTIONS /api/discussions/reply | 200 | 0.00ms
+2025-12-19 14:16:09,460 - INFO - \u27a1 REQUEST | POST /api/discussions/reply | 200 | 60.07ms
+2025-12-19 14:16:09,479 - INFO - \u27a1 REQUEST | OPTIONS /api/discussions/ | 200 | 3.80ms
+2025-12-19 14:16:09,703 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 192.48ms
+2025-12-19 14:16:09,958 - INFO - \u27a1 REQUEST | GET /api/discussions/694429bb644b20a06e771646/replies | 200 | 473.03ms
+2025-12-19 14:16:26,601 - INFO - \u27a1 REQUEST | POST /api/discussions/reply | 200 | 8.41ms
+2025-12-19 14:16:26,710 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 89.60ms
+2025-12-19 14:16:29,286 - INFO - \u27a1 REQUEST | OPTIONS /api/discussions/694429bb644b20a06e771646/replies | 200 | 0.00ms
+2025-12-19 14:16:29,359 - INFO - \u27a1 REQUEST | GET /api/discussions/694429bb644b20a06e771646/replies | 200 | 67.57ms
+2025-12-19 14:22:06,162 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 937.19ms
+2025-12-19 14:22:11,850 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 55.93ms
+2025-12-19 14:22:14,910 - INFO - \u27a1 REQUEST | GET /api/discussions/694429bb644b20a06e771646/replies | 200 | 120.04ms
+2025-12-19 14:22:18,723 - INFO - \u27a1 REQUEST | OPTIONS /api/discussions/6942debe4a3044a404e11c66/replies | 200 | 0.00ms
+2025-12-19 14:22:18,845 - INFO - \u27a1 REQUEST | GET /api/discussions/6942debe4a3044a404e11c66/replies | 200 | 114.61ms
+2025-12-19 14:22:38,300 - ERROR - \u274c ERROR | POST /api/discussions/reply | 13.52ms | '_asyncio.Future' object has no attribute 'get'
+2025-12-19 14:22:40,321 - ERROR - \u274c ERROR | POST /api/discussions/reply | 9.07ms | '_asyncio.Future' object has no attribute 'get'
+2025-12-19 14:22:40,830 - ERROR - \u274c ERROR | POST /api/discussions/reply | 3.87ms | '_asyncio.Future' object has no attribute 'get'
+2025-12-19 14:22:40,991 - ERROR - \u274c ERROR | POST /api/discussions/reply | 4.77ms | '_asyncio.Future' object has no attribute 'get'
+2025-12-19 14:22:41,140 - ERROR - \u274c ERROR | POST /api/discussions/reply | 1.12ms | '_asyncio.Future' object has no attribute 'get'
+2025-12-19 14:22:41,458 - ERROR - \u274c ERROR | POST /api/discussions/reply | 7.78ms | '_asyncio.Future' object has no attribute 'get'
+2025-12-19 14:22:41,631 - ERROR - \u274c ERROR | POST /api/discussions/reply | 3.19ms | '_asyncio.Future' object has no attribute 'get'
+2025-12-19 14:22:41,741 - ERROR - \u274c ERROR | POST /api/discussions/reply | 0.00ms | '_asyncio.Future' object has no attribute 'get'
+2025-12-19 14:22:42,100 - ERROR - \u274c ERROR | POST /api/discussions/reply | 0.00ms | '_asyncio.Future' object has no attribute 'get'
+2025-12-19 14:24:44,176 - INFO - \u27a1 REQUEST | POST /api/discussions/reply | 200 | 91.55ms
+2025-12-19 14:24:45,206 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 1016.70ms
+2025-12-19 14:24:51,331 - INFO - \u27a1 REQUEST | GET /api/discussions/6942debe4a3044a404e11c66/replies | 200 | 58.15ms
+2025-12-19 18:15:01,579 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/google-login | 200 | 2.00ms
+2025-12-19 18:15:02,304 - INFO - \u27a1 REQUEST | POST /api/auth/google-login | 200 | 718.40ms
+2025-12-19 18:19:57,627 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 2200.96ms
+2025-12-19 18:23:03,409 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 486.91ms
+2025-12-19 18:23:06,054 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 539.06ms
+2025-12-19 18:23:08,589 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 63.29ms
+2025-12-19 18:23:29,836 - INFO - \u27a1 REQUEST | POST /api/auth/google-login | 200 | 642.37ms
+2025-12-19 18:23:37,679 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 52.50ms
+2025-12-19 18:25:34,313 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 1459.02ms
+2025-12-19 18:25:35,550 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 40.27ms
+2025-12-19 18:25:52,874 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 45.16ms
+2025-12-19 18:25:55,553 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 37.62ms
+2025-12-19 18:25:56,559 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 38.84ms
+2025-12-19 18:26:00,871 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 42.65ms
+2025-12-19 18:26:55,880 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 62.95ms
+2025-12-19 18:26:56,563 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 45.91ms
+2025-12-19 18:27:12,710 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/google-login | 200 | 1.00ms
+2025-12-19 18:27:14,401 - INFO - \u27a1 REQUEST | POST /api/auth/google-login | 200 | 1689.51ms
+2025-12-19 18:27:29,311 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 37.88ms
+2025-12-19 18:28:08,890 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 52.54ms
+2025-12-19 18:28:35,881 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 56.95ms
+2025-12-19 18:28:42,584 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 72.60ms
+2025-12-19 18:28:47,966 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 866.74ms
+2025-12-19 18:29:40,993 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 153.64ms
+2025-12-19 18:29:44,888 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 67.63ms
+2025-12-19 18:29:47,632 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 117.96ms
+2025-12-19 18:30:05,687 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 864.19ms
+2025-12-19 18:30:12,575 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 65.68ms
+2025-12-19 18:30:15,883 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 71.72ms
+2025-12-19 18:30:16,581 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 60.52ms
+2025-12-19 18:30:27,882 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 62.37ms
+2025-12-19 18:30:32,571 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 63.31ms
+2025-12-19 18:30:33,591 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 73.86ms
+2025-12-19 18:30:35,908 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 85.79ms
+2025-12-19 18:31:18,883 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 62.53ms
+2025-12-19 18:31:34,887 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 70.32ms
+2025-12-19 18:31:35,583 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 61.86ms
+2025-12-19 18:32:19,883 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 82.05ms
+2025-12-19 18:32:34,928 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 2392.19ms
+2025-12-19 18:32:56,343 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 55.17ms
+2025-12-19 18:36:31,904 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 69.89ms
+2025-12-19 18:36:32,557 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 54.22ms
+2025-12-19 18:36:34,896 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 64.75ms
+2025-12-19 18:36:39,596 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 48.56ms
+2025-12-19 18:36:40,860 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 345.54ms
+2025-12-19 18:37:03,874 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 437.75ms
+2025-12-19 18:37:15,184 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 360.60ms
+2025-12-19 18:38:17,228 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 391.10ms
+2025-12-19 18:38:18,572 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 50.83ms
+2025-12-19 18:38:32,871 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 47.97ms
+2025-12-19 18:38:51,874 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 52.91ms
+2025-12-19 18:39:06,025 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 201.73ms
+2025-12-19 18:39:25,895 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 61.03ms
+2025-12-19 18:39:27,592 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 54.68ms
+2025-12-19 18:39:31,914 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 48.32ms
+2025-12-19 18:41:07,890 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 46.81ms
+2025-12-19 18:41:12,878 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 47.71ms
+2025-12-19 18:42:23,901 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 58.18ms
+2025-12-19 18:42:51,877 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 44.37ms
+2025-12-19 18:44:24,865 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 44.77ms
+2025-12-19 18:44:41,884 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 55.90ms
+2025-12-19 18:46:46,895 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 58.42ms
+2025-12-19 18:46:50,924 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 96.99ms
+2025-12-19 18:48:16,259 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 1421.08ms
+2025-12-19 18:48:16,565 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 296.96ms
+2025-12-19 18:48:18,838 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 321.48ms
+2025-12-19 18:49:07,101 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 1289.50ms
+2025-12-19 18:49:35,180 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 359.52ms
+2025-12-19 18:50:48,744 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 910.89ms
+2025-12-19 18:50:55,860 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 44.49ms
+2025-12-19 18:51:03,872 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 45.15ms
+2025-12-19 18:51:06,741 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 230.47ms
+2025-12-19 18:51:10,586 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 42.55ms
+2025-12-19 18:51:13,866 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 43.80ms
+2025-12-19 18:51:51,142 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 312.73ms
+2025-12-19 18:51:52,577 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 45.54ms
+2025-12-19 18:51:53,548 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 47.05ms
+2025-12-19 18:52:04,880 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 45.92ms
+2025-12-19 18:52:42,558 - INFO - \u27a1 REQUEST | GET /api/speed-test/time-limit | 404 | 10.20ms
+2025-12-19 18:53:07,789 - INFO - \u27a1 REQUEST | OPTIONS /api/discussions/ | 200 | 2.62ms
+2025-12-19 18:53:08,306 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 508.53ms
+2025-12-19 18:53:10,277 - INFO - \u27a1 REQUEST | OPTIONS /api/discussions/694429bb644b20a06e771646/vote | 200 | 0.00ms
+2025-12-19 18:53:10,374 - INFO - \u27a1 REQUEST | POST /api/discussions/694429bb644b20a06e771646/vote | 401 | 97.24ms
+2025-12-19 18:53:11,899 - INFO - \u27a1 REQUEST | POST /api/discussions/694429bb644b20a06e771646/vote | 401 | 10.02ms
+2025-12-19 18:53:12,329 - INFO - \u27a1 REQUEST | POST /api/discussions/694429bb644b20a06e771646/vote | 401 | 0.00ms
+2025-12-19 18:53:13,376 - INFO - \u27a1 REQUEST | OPTIONS /api/discussions/694429bb644b20a06e771646/replies | 200 | 1.00ms
+2025-12-19 18:53:13,483 - INFO - \u27a1 REQUEST | GET /api/discussions/694429bb644b20a06e771646/replies | 200 | 99.07ms
+2025-12-19 18:53:13,851 - INFO - \u27a1 REQUEST | POST /api/discussions/694429bb644b20a06e771646/vote | 401 | 12.71ms
+2025-12-19 18:54:44,897 - INFO - \u27a1 REQUEST | OPTIONS /api/discussions/reply | 200 | 0.00ms
+2025-12-19 18:54:44,910 - INFO - \u27a1 REQUEST | POST /api/discussions/reply | 401 | 4.51ms
+2025-12-19 18:54:45,887 - INFO - \u27a1 REQUEST | POST /api/discussions/reply | 401 | 14.42ms
+2025-12-19 18:54:46,722 - INFO - \u27a1 REQUEST | POST /api/discussions/reply | 401 | 0.00ms
+2025-12-19 18:54:47,076 - INFO - \u27a1 REQUEST | POST /api/discussions/reply | 401 | 0.00ms
+2025-12-19 18:54:47,254 - INFO - \u27a1 REQUEST | POST /api/discussions/reply | 401 | 0.00ms
+2025-12-19 18:54:47,418 - INFO - \u27a1 REQUEST | POST /api/discussions/reply | 401 | 13.26ms
+2025-12-19 18:54:47,587 - INFO - \u27a1 REQUEST | POST /api/discussions/reply | 401 | 7.03ms
+2025-12-19 18:54:47,742 - INFO - \u27a1 REQUEST | POST /api/discussions/reply | 401 | 3.65ms
+2025-12-19 18:54:47,873 - INFO - \u27a1 REQUEST | POST /api/discussions/reply | 401 | 0.00ms
+2025-12-19 18:54:48,014 - INFO - \u27a1 REQUEST | POST /api/discussions/reply | 401 | 2.58ms
+2025-12-19 18:54:48,149 - INFO - \u27a1 REQUEST | POST /api/discussions/reply | 401 | 3.42ms
+2025-12-19 18:54:48,313 - INFO - \u27a1 REQUEST | POST /api/discussions/reply | 401 | 0.00ms
+2025-12-19 18:54:48,560 - INFO - \u27a1 REQUEST | POST /api/discussions/reply | 401 | 6.85ms
+2025-12-19 18:54:48,786 - INFO - \u27a1 REQUEST | POST /api/discussions/reply | 401 | 32.33ms
+2025-12-19 18:54:49,178 - INFO - \u27a1 REQUEST | POST /api/discussions/reply | 401 | 5.35ms
+2025-12-19 18:54:54,394 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 48.33ms
+2025-12-19 18:55:21,171 - INFO - \u27a1 REQUEST | POST /api/discussions/reply | 401 | 9.09ms
+2025-12-19 18:55:21,173 - INFO - \u27a1 REQUEST | POST /api/discussions/reply | 401 | 10.65ms
+2025-12-19 18:55:28,576 - INFO - \u27a1 REQUEST | OPTIONS /api/discussions/6942debe4a3044a404e11c66/vote | 200 | 0.00ms
+2025-12-19 18:55:28,586 - INFO - \u27a1 REQUEST | POST /api/discussions/6942debe4a3044a404e11c66/vote | 401 | 0.00ms
+2025-12-19 18:55:32,422 - INFO - \u27a1 REQUEST | POST /api/discussions/6942debe4a3044a404e11c66/vote | 401 | 0.00ms
+2025-12-19 18:55:41,876 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 143.68ms
+2025-12-19 18:56:36,582 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 61.67ms
+2025-12-19 18:56:39,560 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 37.68ms
+2025-12-19 18:56:41,548 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 38.16ms
+2025-12-19 18:56:44,557 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 52.56ms
+2025-12-19 18:56:46,551 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 46.56ms
+2025-12-19 18:56:49,876 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 363.54ms
+2025-12-19 18:57:12,546 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 47.79ms
+2025-12-19 18:57:14,562 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 57.10ms
+2025-12-19 18:57:17,563 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 48.39ms
+2025-12-19 18:57:20,571 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 51.35ms
+2025-12-19 18:58:07,615 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 97.86ms
+2025-12-19 18:58:09,570 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 62.29ms
+2025-12-19 18:58:16,587 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 65.75ms
+2025-12-19 18:58:30,568 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 59.26ms
+2025-12-19 18:58:31,574 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 70.34ms
+2025-12-19 18:58:35,386 - INFO - \u27a1 REQUEST | POST /api/discussions/reply | 401 | 8.86ms
+2025-12-19 18:58:44,140 - INFO - \u27a1 REQUEST | POST /api/discussions/694429bb644b20a06e771646/vote | 401 | 2.91ms
+2025-12-19 18:59:25,582 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 64.23ms
+2025-12-19 18:59:41,378 - INFO - \u27a1 REQUEST | POST /api/discussions/reply | 401 | 0.00ms
+2025-12-19 18:59:42,739 - INFO - \u27a1 REQUEST | POST /api/discussions/reply | 401 | 2.69ms
+2025-12-19 18:59:43,000 - INFO - \u27a1 REQUEST | POST /api/discussions/reply | 401 | 0.00ms
+2025-12-19 18:59:43,241 - INFO - \u27a1 REQUEST | POST /api/discussions/reply | 401 | 5.32ms
+2025-12-19 19:00:52,405 - INFO - \u27a1 REQUEST | OPTIONS /api/discussions/6942debe4a3044a404e11c66/replies | 200 | 1.13ms
+2025-12-19 19:00:52,508 - INFO - \u27a1 REQUEST | GET /api/discussions/6942debe4a3044a404e11c66/replies | 200 | 91.33ms
+2025-12-19 19:01:02,536 - INFO - \u27a1 REQUEST | POST /api/discussions/6942debe4a3044a404e11c66/vote | 401 | 6.26ms
+2025-12-19 19:01:04,323 - INFO - \u27a1 REQUEST | POST /api/discussions/694429bb644b20a06e771646/vote | 401 | 0.00ms
+2025-12-19 19:02:37,935 - INFO - \u27a1 REQUEST | POST /api/discussions/694429bb644b20a06e771646/vote | 401 | 4.03ms
+2025-12-19 19:02:38,473 - INFO - \u27a1 REQUEST | POST /api/discussions/694429bb644b20a06e771646/vote | 401 | 9.40ms
+2025-12-19 19:02:38,996 - INFO - \u27a1 REQUEST | POST /api/discussions/694429bb644b20a06e771646/vote | 401 | 0.00ms
+2025-12-19 19:02:39,943 - INFO - \u27a1 REQUEST | POST /api/discussions/694429bb644b20a06e771646/vote | 401 | 0.00ms
+2025-12-19 19:02:40,544 - INFO - \u27a1 REQUEST | GET /api/discussions/694429bb644b20a06e771646/replies | 200 | 75.69ms
+2025-12-19 19:03:07,586 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 78.40ms
+2025-12-19 19:03:21,503 - INFO - \u27a1 REQUEST | OPTIONS /api/discussions/ | 200 | 0.98ms
+2025-12-19 19:03:21,553 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 46.90ms
+2025-12-19 19:03:28,557 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 48.44ms
+2025-12-19 19:03:35,550 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 46.50ms
+2025-12-19 19:03:50,544 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 37.08ms
+2025-12-19 19:03:51,566 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 50.26ms
+2025-12-19 19:04:16,758 - INFO - \u27a1 REQUEST | OPTIONS /api/discussions/694429bb644b20a06e771646/vote | 200 | 1.01ms
+2025-12-19 19:04:16,786 - INFO - \u27a1 REQUEST | POST /api/discussions/694429bb644b20a06e771646/vote | 401 | 24.67ms
+2025-12-19 19:04:17,506 - INFO - \u27a1 REQUEST | POST /api/discussions/694429bb644b20a06e771646/vote | 401 | 15.16ms
+2025-12-19 19:04:18,263 - INFO - \u27a1 REQUEST | POST /api/discussions/694429bb644b20a06e771646/vote | 401 | 0.00ms
+2025-12-19 19:04:18,811 - INFO - \u27a1 REQUEST | POST /api/discussions/694429bb644b20a06e771646/vote | 401 | 4.52ms
+2025-12-19 19:04:19,324 - INFO - \u27a1 REQUEST | POST /api/discussions/694429bb644b20a06e771646/vote | 401 | 0.00ms
+2025-12-19 19:04:39,293 - INFO - \u27a1 REQUEST | POST /api/discussions/reply | 401 | 7.31ms
+2025-12-19 21:02:40,614 - INFO - \u27a1 REQUEST | OPTIONS /api/auth/login | 200 | 2.02ms
+2025-12-19 21:02:41,233 - INFO - \u27a1 REQUEST | POST /api/auth/login | 200 | 612.49ms
+2025-12-19 21:11:01,883 - INFO - \u27a1 REQUEST | GET /api/technical/questions/ | 200 | 1877.28ms
+2025-12-19 21:12:20,575 - INFO - \u27a1 REQUEST | OPTIONS /api/discussions/ | 200 | 3.80ms
+2025-12-19 21:12:21,028 - INFO - \u27a1 REQUEST | GET /api/discussions/ | 200 | 444.82ms
+2025-12-19 21:19:12,678 - INFO - \u27a1 REQUEST | GET /api/speed-test/time-limit | 404 | 62.74ms
+2025-12-19 21:19:29,921 - INFO - \u27a1 REQUEST | GET /api/speed-test/time-limit | 404 | 2.88ms
+2025-12-19 21:34:33,637 - INFO - \u27a1 REQUEST | OPTIONS /api/discussions/ | 200 | 8.93ms
+2025-12-19 21:35:03,736 - ERROR - \u274c ERROR | GET /api/discussions/ | 30066.14ms | SSL handshake failed: ac-exn48as-shard-00-00.t0oud4t.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:992) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-exn48as-shard-00-02.t0oud4t.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:992) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-exn48as-shard-00-01.t0oud4t.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:992) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 69457011d2b20cd137c96bc4, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-exn48as-shard-00-00.t0oud4t.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-exn48as-shard-00-00.t0oud4t.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:992) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-exn48as-shard-00-01.t0oud4t.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-exn48as-shard-00-01.t0oud4t.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:992) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-exn48as-shard-00-02.t0oud4t.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-exn48as-shard-00-02.t0oud4t.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:992) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>

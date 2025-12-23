@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+motor
+python-dotenv
+pydantic
+pydantic[email]
+passlib[bcrypt]
+python-jose
+bcrypt
+python-multipart
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+requests
+dnspython
+PyJWT
